@@ -588,3 +588,8 @@ D:\Documents\HK8\webNoiThat\cnpm\cnpm\obj\Debug\net8.0\staticwebassets.upToDateC
 D:\Documents\HK8\webNoiThat\cnpm\cnpm\obj\Debug\net8.0\cnpm.csproj.Up2Date
 D:\Documents\HK8\webNoiThat\cnpm\cnpm\obj\Debug\net8.0\cnpm.genruntimeconfig.cache
 D:\Documents\HK8\webNoiThat\cnpm\cnpm\obj\Debug\net8.0\ref\cnpm.dll
+D:\Documents\HK8\webNoiThat\cnpm\cnpm\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Documents\HK8\webNoiThat\cnpm\cnpm\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Documents\HK8\webNoiThat\cnpm\cnpm\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Documents\HK8\webNoiThat\cnpm\cnpm\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\Documents\HK8\webNoiThat\cnpm\cnpm\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
