@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Documents\\HK8\\webNoiThat\\cnpm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AC0B48AB-655A-4D55-ACFC-467D44B3783F}|cnpm\\cnpm.csproj|d:\\documents\\hk8\\webnoithat\\cnpm\\cnpm\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AC0B48AB-655A-4D55-ACFC-467D44B3783F}|cnpm\\cnpm.csproj|solutionrelative:cnpm\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{AC0B48AB-655A-4D55-ACFC-467D44B3783F}|cnpm\\cnpm.csproj|d:\\documents\\hk8\\webnoithat\\cnpm\\cnpm\\views\\products\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC0B48AB-655A-4D55-ACFC-467D44B3783F}|cnpm\\cnpm.csproj|solutionrelative:cnpm\\views\\products\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AC0B48AB-655A-4D55-ACFC-467D44B3783F}|cnpm\\cnpm.csproj|d:\\documents\\hk8\\webnoithat\\cnpm\\cnpm\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AC0B48AB-655A-4D55-ACFC-467D44B3783F}|cnpm\\cnpm.csproj|solutionrelative:cnpm\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC0B48AB-655A-4D55-ACFC-467D44B3783F}|cnpm\\cnpm.csproj|d:\\documents\\hk8\\webnoithat\\cnpm\\cnpm\\views\\products\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AC0B48AB-655A-4D55-ACFC-467D44B3783F}|cnpm\\cnpm.csproj|solutionrelative:cnpm\\views\\products\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{AC0B48AB-655A-4D55-ACFC-467D44B3783F}|cnpm\\cnpm.csproj|d:\\documents\\hk8\\webnoithat\\cnpm\\cnpm\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AC0B48AB-655A-4D55-ACFC-467D44B3783F}|cnpm\\cnpm.csproj|solutionrelative:cnpm\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AC0B48AB-655A-4D55-ACFC-467D44B3783F}|cnpm\\cnpm.csproj|d:\\documents\\hk8\\webnoithat\\cnpm\\cnpm\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -66,11 +66,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ProductDetail.cshtml",
               "DocumentMoniker": "D:\\Documents\\HK8\\webNoiThat\\cnpm\\cnpm\\Views\\Products\\ProductDetail.cshtml",
               "RelativeDocumentMoniker": "cnpm\\Views\\Products\\ProductDetail.cshtml",
@@ -96,13 +96,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\Documents\\HK8\\webNoiThat\\cnpm\\cnpm\\Views\\Products\\Edit.cshtml",
               "RelativeDocumentMoniker": "cnpm\\Views\\Products\\Edit.cshtml",
               "ToolTip": "D:\\Documents\\HK8\\webNoiThat\\cnpm\\cnpm\\Views\\Products\\Edit.cshtml",
               "RelativeToolTip": "cnpm\\Views\\Products\\Edit.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAD4vxcAAABSAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAD4vygAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-13T03:48:36.324Z",
               "EditorCaption": ""

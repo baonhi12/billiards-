@@ -22,7 +22,7 @@ namespace cnpm.Migrations
                     Price = table.Column<decimal>(type: "decimal(18,2)", nullable: false),
                     Stock = table.Column<int>(type: "int", nullable: false),
                     CategoryID = table.Column<int>(type: "int", nullable: true),
-                    ImagePath = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                    //ImagePath = table.Column<string>(type: "nvarchar(max)", nullable: false)
                 },
                 constraints: table =>
                 {

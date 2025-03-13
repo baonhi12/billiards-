@@ -144,9 +144,9 @@ namespace cnpm.Migrations
                     b.Property<string>("Description")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("ImagePath")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                    //b.Property<string>("ImagePath")
+                    //    .IsRequired()
+                    //    .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Name")
                         .IsRequired()
